@@ -19,4 +19,4 @@ Camera  | 5 MP, 2592 х 1944 pixels
 Release Date | August 2014
 
 
-![LG G Pad 8.0 LTE](http://cdn2.gsmarena.com/vv/bigpic/lg-g-pad-80-2014.jpg "LG G Pad 8.0 LTE")
+![LG G Pad 8.0 LTE](http://cdn2.gsmarena.com/vv/pics/lg/lg-g-pad-80-lte-3.jpg "LG G Pad 8.0 LTE")
